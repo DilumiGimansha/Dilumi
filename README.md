@@ -1,3 +1,4 @@
+![Masterhead](https://tse2.mm.bing.net/th?id=OIP.NiMks-k63knD6Er5TfUiGAHaDP&pid=Api&P=0&h=220)
 <h1 align="center">Hi 👋, I'm Dilumi Gimansha</h1>
 <h3 align="center">A passionate frontend & backend developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.KqviR7iiuOpyTzR4IwiUGQHaFj&pid=Api&P=0&h=220"
